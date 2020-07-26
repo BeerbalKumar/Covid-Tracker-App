@@ -109,13 +109,13 @@ const styles = StyleSheet.create({
    backgroundColor:"#ffb25a",
    width:"45%",
    alignItems:"center",
-   padding:10,
+   padding:20,
    borderRadius:10,
    margin:1
   },
   casesLogo:{
-    width:"30%",
-    height:50,
+    width:"40%",
+    height:60,
     borderRadius:50,
     padding:10
   
@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
     backgroundColor:"#ff5959",
     width:"45%",
     alignItems:"center",
-    padding:10,
+    padding:20,
     borderRadius:10,
     margin:5
   },
@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     backgroundColor:"#4cd97b",
     width:"90%",
     alignItems:"center",
-    padding:10,
+    padding:20,
     borderRadius:10,
     margin:2
   }
